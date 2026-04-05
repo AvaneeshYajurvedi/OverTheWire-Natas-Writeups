@@ -8,7 +8,8 @@
 ---
 
 ## Objective
- The Webpage Stated That The Password To The Next Level Was On The WebPage Itself
+To Find The Password To The Next Level
+
 
 ---
 
