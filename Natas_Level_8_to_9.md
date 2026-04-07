@@ -1,7 +1,6 @@
 # Natas8 → Natas9
 
-**URL:** `http://natas8.natas.labs.overthewire.org`  
-**Credentials:** `natas8 : <password>`  
+**URL:** `http://natas8.natas.labs.overthewire.org`   
 **Difficulty:** Easy  
 **Category:** Source Code Review / Encoding Reversal
 
