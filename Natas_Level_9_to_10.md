@@ -1,7 +1,6 @@
 # Natas9 → Natas10
 
-**URL:** `http://natas9.natas.labs.overthewire.org`  
-**Credentials:** `natas9 : <password>`  
+**URL:** `http://natas9.natas.labs.overthewire.org`    
 **Difficulty:** Easy  
 **Category:** Command Injection
 
